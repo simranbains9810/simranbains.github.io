@@ -13,7 +13,7 @@ I'm a Data Scientist at the Bank of England. I work on NLP-based machine learnin
 
 My role has also taken me abroad to Frankfurt, where I completed a secondment at Deutsche Bundesbank. It was a privilege working with the Banking and Finance Directorate General to shape a strategy for advancing AI capabilities and automating insights for the European Central Bank.
 
-My data journey began even earlier. As a Summer Analyst at Barclays Corporate and Investment Bank, I developed quantitative strategies across Trade, Liquidity, FX and Corporate Finance products, which led to achieving a Global Recognition Award. Prior to that, I completed an industrial placement at the Bank of England, helping introduce policy experts to the world of R and exploring econometric concepts related to prudential policy. 
+My data journey began even earlier. As a Summer Analyst at Barclays Corporate and Investment Bank, I developed quantitative strategies across Trade, Liquidity, FX and Corporate Finance products, which led to achieving a Global Recognition Award. Before that, I completed an industrial placement at the Bank of England, helping introduce policy experts to the world of R and exploring econometric concepts related to prudential policy. 
 
 I completed a Masters in Artificial intelligence and Data Science from Northeastern University with Distinction. Prior to that, I studied Economics and Management at Aston University, where I received the Aston Excellence Scholarship and Economics Prize for highest academic performance. I also served as President of Aston Women in Business Society (2019 - 2020), a platform focused on empowering women in the early stages of their careers through personal growth and professional development. 
 
