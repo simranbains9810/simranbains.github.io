@@ -114,14 +114,14 @@ analytics:
 # Site Author
 author:
   name             : "Simran Bains"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/Simran_Bains.jpg"
   bio              : "Data Scientist"
   location         : "London, United Kingdom"
   email            :
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
+      # url: "mailto:simranbains_9810@hotmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
