@@ -40,3 +40,4 @@ Chartered Insurance Institute
 Alumni M&A Germany e.V.
 
 ## Publications 📝
+
