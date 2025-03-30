@@ -9,7 +9,7 @@ Welcome to my personal profile. This website expresses my personal views.
 
 ## About me 👩🏽‍💻
 
-I'm a Data Scientist at the Bank of England. I work on NLP-based machine learning projects, quantitative finance methods and fintech solutions. During my time at the Bank, I've held a range of roles covering data science, economics and risk topics. 
+I'm a Data Scientist at the Bank of England. I work on NLP-based machine learning projects, quantitative finance methods and fintech solutions. During my time at the Bank, I've held a range of roles covering data science, economics and risk-related topics. 
 
 My role has also taken me abroad to Frankfurt, where I completed a secondment at Deutsche Bundesbank. It was a privilege working with the Banking and Finance Directorate General to shape a strategy for advancing AI capabilities and automating insights for the European Central Bank.
 
