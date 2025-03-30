@@ -5,17 +5,17 @@ title: Hi, I'm Simran 👋
 comments: false
 ---
 
-Welcome to my personal profile. This website expresses my personal views.
+Welcome to my personal profile. This website reflects my personal views.
 
 ## About me 👩🏽‍💻
 
-I'm a Data Scientist at the Bank of England. I work on NLP-based machine learning projects, quantitative finance methods and fintech solutions. During my time at the Bank, I've held a range of roles covering data science, economics and risk-related topics. 
+I'm a Data Scientist at the Bank of England specialising in NLP-based machine learning projects, quantitative finance methods and fintech solutions. During my time at the Bank, I've held a variety of roles covering data science, economics and risk-related topics. 
 
 My role has also taken me abroad to Frankfurt, where I completed a secondment at Deutsche Bundesbank. It was a privilege working with the Banking and Finance Directorate General to shape a strategy for advancing AI capabilities and automating insights for the European Central Bank.
 
-My data journey began even earlier. As a Summer Analyst at Barclays Corporate and Investment Bank, I developed quantitative strategies across Trade, Liquidity, FX and Corporate Finance products, which led to achieving a Global Recognition Award. Before that, I completed an industrial placement at the Bank of England, helping introduce policy experts to the world of R and exploring econometric concepts related to prudential policy. 
+My data journey began even earlier. As a Summer Analyst at Barclays Corporate and Investment Bank, I developed quantitative strategies across Trade, Liquidity, FX and Debt Financing products, which led to achieving a Global Recognition Award. Before that, I completed an industrial placement at the Bank of England, where I introduced policy experts to the world of R and explored econometric concepts related to prudential policy. 
 
-I completed a Masters in Artificial intelligence and Data Science from Northeastern University with Distinction. Prior to that, I studied Economics and Management at Aston University, where I received the Aston Excellence Scholarship and Economics Prize for highest academic performance. I also served as President of Aston Women in Business Society (2019 - 2020), a platform focused on empowering women in the early stages of their careers through personal growth and professional development. 
+I completed a Masters in Artificial intelligence and Data Science from Northeastern University with Distinction. Prior to that, I studied Economics and Management at Aston University, where I received the Aston Excellence Scholarship and Economics Prize for highest academic performance. I also served as President of Aston Women in Business Society (2019 - 2020), a platform dedicated to empowering women in the early stages of their careers through personal growth and professional development. 
 
 I'm passionate about creating progressive learning environments that enhance data science capabilities. As a mentor for Code First Girls, I've supported students from non-technical backgrounds build fluency in coding and equipped them with the skills, resources and connections they need to thrive in data-driven roles.
 
@@ -40,4 +40,3 @@ Chartered Insurance Institute
 Alumni M&A Germany e.V.
 
 ## Publications 📝
-
