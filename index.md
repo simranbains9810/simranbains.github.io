@@ -24,7 +24,7 @@ I served as President of Aston Women in Business Society (2019 - 2020), a platfo
 
 👩‍⚖️ As a member of the UK Artificial Intelligence Public-Private Forum, I collaborated with international authorities and industry experts to explore the adoption, assessment and regulation of AI. 
 
-🤖 My focus is on deploying ML/AI systems in production. I'm also exploring creative use cases of alternative data for macroeconomic insights and predictive finance. 
+🤖 My focus is on deploying ML/AI systems in production. I'm also exploring creative use cases of alternative data for market intelligence and predictive finance. 
 
 I enjoy learning about fun technical challenges and collaborating with great teams. Reach out if you want to find a way to work together!
 
