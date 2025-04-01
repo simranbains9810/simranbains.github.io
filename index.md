@@ -5,7 +5,7 @@ title: Hi, I'm Simran 👋
 comments: false
 ---
 
-Welcome to my personal profile. This website reflects my personal views.
+Welcome to my profile. This website reflects my personal views.
 
 ## About me 👩🏽‍💻
 
@@ -17,16 +17,16 @@ My data journey began even earlier. As a Summer Analyst at Barclays Corporate an
 
 I completed a Masters in Artificial intelligence and Data Science from Northeastern University with Distinction. Prior to that, I studied Economics and Management at Aston University, where I received the Aston Excellence Scholarship and Economics Prize for highest academic performance. I also served as President of Aston Women in Business Society (2019 - 2020), a platform dedicated to empowering women in the early stages of their careers through personal growth and professional development. 
 
-I'm passionate about creating progressive learning environments that enhance data science capabilities. As a mentor for Code First Girls, I've supported students from non-technical backgrounds build fluency in coding and equipped them with the skills, resources and connections they needed to thrive in data-driven roles.
+Alongside my professional experience, I'm passionate about creating progressive learning environments that enhance data science capabilities. As a mentor for Code First Girls, I've supported students from non-technical backgrounds build fluency in coding and equipped them with the skills, resources and connections they needed to thrive in data-driven roles.
 
 ## Additional Information 💬
-🚀 Previously, I worked with founding members on early-stage start-up development and e-commerce tooling at Chemist Direct. The company received investment from former Skype co-founders Niklas Zennstrom and Janus Friis, now of VC fund Atomico.
+🚀 Previously, I worked with founding members on early-stage start-up development at Chemist Direct. The company received investment from former Skype co-founders Niklas Zennstrom and Janus Friis, now of VC fund Atomico.
 
-👩‍⚖️ As a member of the Artificial Intelligence Public-Private Forum, I collaborated with international authorities and industry experts to explore the adoption, assessment and regulation of AI. 
+👩‍⚖️ As a member of the UK Artificial Intelligence Public-Private Forum, I collaborated with international authorities and industry experts to explore the adoption, assessment and regulation of AI. 
 
 🤖 My focus is on deploying ML/AI systems in production. I'm also exploring creative use cases of alternative data for macroeconomic insights and predictive finance. 
 
-I'm best reached via email. I'm always open to interesting conversations and collaboration. 
+I enjoy learning about fun technical challenges and collaborating with great teams. Reach out if you want to find a way to work together!
 
 ## Memberships 👥   
 British Computer Society, Chartered Institute for IT
