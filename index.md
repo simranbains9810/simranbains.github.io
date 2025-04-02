@@ -43,16 +43,11 @@ Alumni M&A Germany e.V.
 
 ## Publications 📝
 **[Application of Artificial Intelligence (AI) to analyse and predict financial and non-financial risks](https://github.com/simranbains9810/capstone_project/)**<br/>
-_Capstone Project_<br/>
 
 **[Outsourcing and Third Party Risk Management SS2/21](https://www.bankofengland.co.uk/prudential-regulation/publication/2021/march/outsourcing-and-third-party-risk-management-ss/)**<br/>
-_Contributed to drafting_<br/>
 
 **[Artificial Intelligence and Machine Learning DP5/22](https://www.bankofengland.co.uk/prudential-regulation/publication/2022/october/artificial-intelligence)**<br/>
-*Contributed to Outsourcing chapter*<br/>
 
 **[Inflation Report – May 2019](https://www.bankofengland.co.uk/-/media/boe/files/inflation-report/2019/may/inflation-report-may-2019.pdf)**<br/>
-*Contributed to data analysis*<br/>
 
 **[Senior Managers & Certification Regime – Quarterly Bulletin 2018](https://www.bankofengland.co.uk/-/media/boe/files/quarterly-bulletin/2018/senior-managers-certification-regime)**<br/>
-*Contributed to drafting and data analysis*<br/>
