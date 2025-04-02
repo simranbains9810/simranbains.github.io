@@ -22,7 +22,7 @@ I served as President of [Aston Women in Business Society](https://www.linkedin.
 ## Additional Information 💬
 🚀 Previously, I worked with founding members on early-stage start-up development at [Chemist Direct](https://www.barclayscorporate.com/). The company received [investment](https://www.business-live.co.uk/professional-services/banking-finance/smethwick-online-chemist-wins-3m-3949072) from former Skype co-founders Niklas Zennstrom and Janus Friis, now of VC fund Atomico.
 
-📚 I have delivered guest lectures at the London School of Economics, Warwick Business School and Northeastern University.
+📚 I've delivered guest lectures at the London School of Economics, Warwick Business School and Northeastern University.
 
 👩‍⚖️ As a member of the [UK Artificial Intelligence Public-Private Forum](https://www.bankofengland.co.uk/research/fintech/ai-public-private-forum), I collaborated with international authorities and industry experts to explore the adoption, assessment and regulation of AI. 
 
