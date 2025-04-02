@@ -28,7 +28,7 @@ I served as President of [Aston Women in Business Society](https://www.linkedin.
 
 🤖 My focus is on deploying ML/AI systems in production. I'm also exploring creative use cases of alternative data for market intelligence and predictive finance. 
 
-I enjoy learning about fun technical challenges and collaborating with great teams. Reach out if you want to find a way to work together!
+I enjoy learning about fun technical challenges and collaborating with great teams. Reach out via 📧 [email](mailto:simranbains_9810@hotmail.com)if you want to find a way to work together!
 
 ## Memberships 👥   
 British Computer Society, Chartered Institute for IT
