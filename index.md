@@ -20,7 +20,7 @@ I completed a Masters in Artificial intelligence and Data Science from Northeast
 I served as President of [Aston Women in Business Society](https://www.linkedin.com/company/aston-womeninbusiness/posts/?feedView=all) (2019 - 2020), a platform dedicated to empowering women in the early stages of their careers through personal growth and professional development. As a mentor for [Code First Girls](https://codefirstgirls.com/), I've supported students from non-technical backgrounds build fluency in coding and equipped them with the skills, resources and connections they needed to thrive in data-driven roles.
 
 ## Additional Information 💬
-🚀 Previously, I worked with founding members on early-stage start-up development at [Chemist Direct](https://www.barclayscorporate.com/). The company received [investment](https://www.business-live.co.uk/professional-services/banking-finance/smethwick-online-chemist-wins-3m-3949072) from former Skype co-founders Niklas Zennstrom and Janus Friis, now of VC fund Atomico.
+🚀 Previously, I worked with founding members on early-stage start-up development at [Chemist Direct](https://www.chemistdirect.co.uk/). The company received [investment](https://www.business-live.co.uk/professional-services/banking-finance/smethwick-online-chemist-wins-3m-3949072) from former Skype co-founders Niklas Zennstrom and Janus Friis, now of VC fund Atomico.
 
 📚 I've delivered guest lectures at the London School of Economics, Warwick Business School and Northeastern University.
 
